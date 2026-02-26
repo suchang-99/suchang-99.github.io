@@ -1,4 +1,6 @@
 ---
+title: "About Me"
+hide_title: true
 permalink: /
 author_profile: true
 redirect_from: 
