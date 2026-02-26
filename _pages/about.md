@@ -38,29 +38,35 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - 2025.07: One paper is accepted by ACM MM 2025
 
 ## <span id="publication">Publication</span>
-- **A Survey on Deep Learning Compilation Optimizations**  
-  Hongyu Li, **Chang Su**, et al.  
-  *Journal of Software*, 2025  
-  [[PDF]](link)
+- **mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds**  
+  **Chang Su**, Beihong Jin, Qiwen Shi, Zhi Wang.  
+  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*), 2026  
 
-- **Complex Numerical Reasoning with Numerical Semantic Pre-training Framework**  
-  Jun Wang, **Chang Su**, et al.  
-  *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2025  
-  [[PDF]](link) [[Code]](link)
+- **From Prototype to Nationwide Deployment: A 5-Year Retrospect of a WiFi-Based Outdoor Localization System**  
+  Fusang Zhang, Jiazhi Ni, **Chang Su**, Junqi Ma, Beihong Jin, Daqing Zhang, Qiang Huang, Xin Li, Chang Liu, Jie Xiong, Hongbin Luo.  
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**)  
 
-- **A Cognitive Writing Perspective for Constrained Long-Form Text Generation**  
-  Kaiyang Chen, **Chang Su**, et al.  
-  *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025  
-  [[PDF]](link)
+- **Human Mesh Recovery from Partial Point Cloud without Human Annotations**  
+  **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**), 2026  
 
-- **KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search**  
-  **Chang Su**, et al.  
-  *International Conference on Machine Learning (ICML)*, 2025  
-  [[PDF]](link) [[Code]](link)
+- **Self-Supervised Human Mesh Recovery from Partial Point Cloud via a Self-Improving Loop**  
+  **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
+  The 33rd ACM International Conference on Multimedia (ACM MM), 2025
+  [[PDF]]([link](https://dl.acm.org/doi/10.1145/3746027.3755570)) [[Code]]([link](https://github.com/suchang-99/SS-HMR))
 
-- **PM-MOE: Mixture of Experts on Private Model Parameters for Personalized Federated Learning**  
-  Feng Zhang, **Chang Su**, et al.  
-  *The Web Conference (WWW)*, 2025 (**Oral**)  
-  [[PDF]](link) [[Code]](link)
+- **Push the limit of highly accurate ranging on commercial uwb devices**  
+  Junqi Ma, Fusang Zhang, Beihong Jin, **Chang Su**, Siheng Li, Zhi Wang, Jiazhi Ni  
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2
+  [[PDF]]([link](https://dl.acm.org/doi/abs/10.1145/3659602)) 
 
+- **Offsite evaluation of localization systems: Criteria, systems, and results from ipin 2021 and 2022 competitions**  
+  Francesco Potortì, Antonino Crivello, Soyeon Lee, ..., **Chang Su**, et.al. 
+  IEEE Journal of Indoor and Seamless Positioning and Navigation (**J-ISPIN**), Vol. 2
+  [[PDF]]([link](https://ieeexplore.ieee.org/document/10404047)) 
+
+  - **UWBLoc: NLoS Mitigation for Practical UWB Localization**  
+  **Chang Su**, Beihong Jin, Fusang Zhang, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
+  Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2
+  [[PDF]]([link](https://ieeexplore.ieee.org/abstract/document/10449041)) 
 
