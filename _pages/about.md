@@ -63,9 +63,9 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - **Offsite evaluation of localization systems: Criteria, systems, and results from ipin 2021 and 2022 competitions**  
   Francesco Potortì, Antonino Crivello, Soyeon Lee, ..., **Chang Su**, et.al. 
   IEEE Journal of Indoor and Seamless Positioning and Navigation (**J-ISPIN**), Vol. 2
-  [[PDF]]([link](https://ieeexplore.ieee.org/document/10404047)) 
+  [[PDF]]([link](<https://ieeexplore.ieee.org/document/10404047>)) 
 
-  - **UWBLoc: NLoS Mitigation for Practical UWB Localization**  
+- **UWBLoc: NLoS Mitigation for Practical UWB Localization**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2
   [[PDF]]([link](https://ieeexplore.ieee.org/abstract/document/10449041)) 
