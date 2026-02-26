@@ -27,7 +27,7 @@ redirect_from:
 ## <span id="about">About Me</span>
 I am currently a Ph.D. candidate at Institute of Software, Chinese Academy of Sciences, under the supervision of Prof. Fusang Zhang and Prof. Beihong Jin. 
 In 2021, I got my bachelor's degree from Xiamen University.
-
+Currently, my research focuses on using self-supervised learning and generative models to address the challenge of limited labeled data in human activity recognition.
 I am currently seeking internship opportunities for Summer 2026. Feel free to reach out.
 
 ## <span id="news">News</span>
