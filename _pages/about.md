@@ -52,7 +52,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 
 - **Self-Supervised Human Mesh Recovery from Partial Point Cloud via a Self-Improving Loop**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
-  The 33rd ACM International Conference on Multimedia (ACM MM), 2025  
+  The 33rd ACM International Conference on Multimedia (**ACM MM**), 2025  
   [[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755570) [[Code]](https://github.com/suchang-99/SS-HMR)
 
 - **Push the limit of highly accurate ranging on commercial uwb devices**  
@@ -69,4 +69,13 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
   **Chang Su**, Beihong Jin, Fusang Zhang, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
   IEEE International Conference on Ubiquitous Intelligence and Computing (**UIC**), 2023  
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449041)
+
+## <span id="service">Service</span>
+- **Reviewer**: ACM MM, BMVC
+
+## <span id="award">Awards and Honors</span>
+- [2023] Huawei 1st Wi-Fi Sensing Competition, Detection \& Localization Track, Third Prize (CNY 20,000)
+- [2023] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7, Champion
+- [2022] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7 & Track 8, Champion
+- [2021] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7, Champion
 
