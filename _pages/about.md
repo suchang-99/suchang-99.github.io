@@ -56,7 +56,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
   [[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755570) [[Code]](https://github.com/suchang-99/SS-HMR)
 
 - **Push the limit of highly accurate ranging on commercial uwb devices**  
-  Junqi Ma, Fusang Zhang, Beihong Jin, **Chang Su**, Siheng Li, Zhi Wang, Jiazhi Ni  
+  Junqi Ma, Fusang Zhang, Beihong Jin, **Chang Su**, Siheng Li, Zhi Wang, Jiazhi Ni.   
   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2  
   [[PDF]](https://dl.acm.org/doi/abs/10.1145/3659602)
 
