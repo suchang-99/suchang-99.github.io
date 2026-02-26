@@ -66,7 +66,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
   [[PDF]](https://ieeexplore.ieee.org/document/10404047)
 
 - **UWBLoc: NLoS Mitigation for Practical UWB Localization**  
-  **Chang Su**, Beihong Jin, Fusang Zhang, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
+  **Chang Su**, Fusang Zhang, Beihong Jin, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
   IEEE International Conference on Ubiquitous Intelligence and Computing (**UIC**), 2023  
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449041)
 
