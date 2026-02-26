@@ -85,7 +85,5 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - [2019] Dewang Cao Scholarship, XMU
 - [2019] Merit Student, XMU
 
-
-<!-- <div style="width: 100%; max-width: 400px; height: 250px; margin: 20px auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zvN3TPfj-otiBpPVBveJc2bYIPiLQas51G_5fzlvkxU&cl=ffffff&w=a"></script>
-</div> -->
+## <span id="intern">Intership</span>
+- [2022-2023] **Tencent Map**, Localization Algorithm Intern, Supervised by Jiazhi Ni.
