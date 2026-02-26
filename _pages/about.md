@@ -40,7 +40,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 ## <span id="publication">Publication</span>
 - **mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds**  
   **Chang Su**, Beihong Jin, Qiwen Shi, Zhi Wang.  
-  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR*), 2026  
+  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
 
 - **From Prototype to Nationwide Deployment: A 5-Year Retrospect of a WiFi-Based Outdoor Localization System**  
   Fusang Zhang, Jiazhi Ni, **Chang Su**, Junqi Ma, Beihong Jin, Daqing Zhang, Qiang Huang, Xin Li, Chang Liu, Jie Xiong, Hongbin Luo.  
@@ -53,20 +53,20 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 - **Self-Supervised Human Mesh Recovery from Partial Point Cloud via a Self-Improving Loop**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
   The 33rd ACM International Conference on Multimedia (ACM MM), 2025
-  [[PDF]]([link](https://dl.acm.org/doi/10.1145/3746027.3755570)) [[Code]]([link](https://github.com/suchang-99/SS-HMR))
+  [[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755570) [[Code]](https://github.com/suchang-99/SS-HMR)
 
 - **Push the limit of highly accurate ranging on commercial uwb devices**  
   Junqi Ma, Fusang Zhang, Beihong Jin, **Chang Su**, Siheng Li, Zhi Wang, Jiazhi Ni  
   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2
-  [[PDF]]([link](https://dl.acm.org/doi/abs/10.1145/3659602)) 
+  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3659602)
 
 - **Offsite evaluation of localization systems: Criteria, systems, and results from ipin 2021 and 2022 competitions**  
-  Francesco Potortì, Antonino Crivello, Soyeon Lee, ..., **Chang Su**, et.al. 
+  Francesco Potortì, Antonino Crivello, Soyeon Lee, ..., **Chang Su**, et.al.
   IEEE Journal of Indoor and Seamless Positioning and Navigation (**J-ISPIN**), Vol. 2
-  [[PDF]]([link](<https://ieeexplore.ieee.org/document/10404047>)) 
+  [[PDF]](https://ieeexplore.ieee.org/document/10404047)
 
 - **UWBLoc: NLoS Mitigation for Practical UWB Localization**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Junqi Ma, Jiazhi Ni, Siheng Li, Zhi Wang.  
   Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp**), Vol. 8, No. 2
-  [[PDF]]([link](https://ieeexplore.ieee.org/abstract/document/10449041)) 
+  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449041)
 
