@@ -17,11 +17,11 @@ main:
   - title: "Publication"
     url: "#publication"    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Service"
+    url: "#service"
         
- # - title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Awards"
+    url: "#award"
     
   #- title: "CV"
    # url: /cv/
