@@ -29,7 +29,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Institute of Software Chinese Academy of Sciences & University of Chinese Academy of Sciences"
+  employer         : #"Institute of Software Chinese Academy of Sciences & University of Chinese Academy of Sciences"
+    - "ISCAS"  # Institute of Software, Chinese Academy of Sciences 的缩写
+    - "UCAS"   # University of Chinese Academy of Sciences 的缩写
   uri              : # URL
   email            : "suchang21@otcaix.iscas.ac.cn" 
 
