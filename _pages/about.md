@@ -33,7 +33,9 @@ Currently, my research focuses on using self-supervised learning and generative 
 I am currently seeking internship opportunities for Summer 2026. Feel free to reach out.
 
 ## <span id="news">News</span>
-
+- 2026.02: One paper is accepted by CVPR 2026
+- 2026.01: Two papers are accepted by UbiComp 2026 and ICASSP 2026 ，respectively
+- 2025.07: One paper is accepted by ACM MM 2025
 
 ## <span id="publication">Publication</span>
 
