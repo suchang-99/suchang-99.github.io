@@ -75,7 +75,13 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 
 ## <span id="award">Awards and Honors</span>
 - [2023] Huawei 1st Wi-Fi Sensing Competition, Detection \& Localization Track, Third Prize (CNY 20,000)
-- [2023] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7, Champion
-- [2022] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7 & Track 8, Champion
-- [2021] The International Conference on Indoor Positioning and Indoor Navigation (IPIN) Competition Track 7, Champion
+- [2023] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7, Champion
+- [2022] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7 & Track 8, Champion
+- [2021] The International Conference on Indoor Positioning and Indoor Navigation Competition Track 7, Champion
+- [2022&2023] Merit Student, UCAS
+- [2021&2022] Academic Scholarship, UCAS
+- [2021] Outstanding Graduate, XMU
+- [2021] Qimiao Scholarship, XMU
+- [2019] Dewang Cao Scholarship, XMU
+- [2019] Merit Student, XMU
 
