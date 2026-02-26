@@ -15,7 +15,7 @@ main:
     url: "#news"    
 
   - title: "Publication"
-    url: "#about"    
+    url: "#publication"    
     
   #- title: "Portfolio"
    # url: /portfolio/
