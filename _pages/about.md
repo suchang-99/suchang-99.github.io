@@ -40,7 +40,7 @@ I am currently seeking internship opportunities for Summer 2026. Feel free to re
 ## <span id="publication">Publication</span>
 - **mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds**  
   **Chang Su**, Beihong Jin, Qiwen Shi, Zhi Wang.  
-  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
+  The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
   [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Su_mmWaveFlow_Unified_Enhancement_and_Generation_of_mmWave_Human_Point_Clouds_CVPR_2026_paper.pdf)
 
 - **From Prototype to Nationwide Deployment: A 5-Year Retrospect of a WiFi-Based Outdoor Localization System**  
