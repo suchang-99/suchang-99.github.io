@@ -30,7 +30,7 @@ In 2021, I got my bachelor's degree from Xiamen University.
 
 Currently, my research focuses on using self-supervised learning and generative models to address the challenge of limited labeled data for human sensing tasks.
 
-I am currently seeking internship opportunities for Summer 2026. Feel free to reach out.
+I am currently seeking internship opportunities for Fall 2026. Feel free to reach out.
 
 ## <span id="news">News</span>
 - 2026.02: One paper is accepted by CVPR 2026
