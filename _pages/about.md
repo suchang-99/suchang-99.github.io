@@ -41,7 +41,8 @@ I am currently seeking internship opportunities for Fall 2026. Feel free to reac
 - **mmWaveFlow: Unified Enhancement and Generation of mmWave Human Point Clouds**  
   **Chang Su**, Beihong Jin, Qiwen Shi, Zhi Wang.  
   The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026  
-  [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Su_mmWaveFlow_Unified_Enhancement_and_Generation_of_mmWave_Human_Point_Clouds_CVPR_2026_paper.pdf)
+  [[PDF]](https://openaccess.thecvf.com/content/CVPR2026/papers/Su_mmWaveFlow_Unified_Enhancement_and_Generation_of_mmWave_Human_Point_Clouds_CVPR_2026_paper.pdf)   [[Code]](https://github.com/suchang-99/mmWaveFlow)   [[Video]](https://www.youtube.com/watch?v=86tBcnnKxGk&t=2s)
+
 
 - **From Prototype to Nationwide Deployment: A 5-Year Retrospect of a WiFi-Based Outdoor Localization System**  
   Fusang Zhang, Jiazhi Ni, **Chang Su**, Junqi Ma, Beihong Jin, Daqing Zhang, Qiang Huang, Xin Li, Chang Liu, Jie Xiong, Hongbin Luo.  
@@ -56,7 +57,7 @@ I am currently seeking internship opportunities for Fall 2026. Feel free to reac
 - **Self-Supervised Human Mesh Recovery from Partial Point Cloud via a Self-Improving Loop**  
   **Chang Su**, Beihong Jin, Fusang Zhang, Siheng Li, Zhi Wang.  
   The 33rd ACM International Conference on Multimedia (**ACM MM**), 2025  
-  [[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755570) [[Code]](https://github.com/suchang-99/SS-HMR)
+  [[PDF]](https://dl.acm.org/doi/10.1145/3746027.3755570)  [[Code]](https://github.com/suchang-99/SS-HMR)  [[Video]](https://www.youtube.com/watch?v=BvkYmY2SiIY)
 
 - **Push the limit of highly accurate ranging on commercial uwb devices**  
   Junqi Ma, Fusang Zhang, Beihong Jin, **Chang Su**, Siheng Li, Zhi Wang, Jiazhi Ni.   
