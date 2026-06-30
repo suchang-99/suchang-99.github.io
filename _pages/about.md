@@ -75,7 +75,7 @@ I am currently seeking internship opportunities for Fall 2026. Feel free to reac
   [[PDF]](https://ieeexplore.ieee.org/abstract/document/10449041)
 
 ## <span id="service">Service</span>
-- **Reviewer**: ACM MM, BMVC
+- **Reviewer**: TMC, ACM MM, BMVC
 
 ## <span id="award">Awards and Honors</span>
 - [2023] Huawei 1st Wi-Fi Sensing Competition, Detection \& Localization Track, Third Prize (CNY 20,000)
